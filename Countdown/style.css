@@ -1,0 +1,21 @@
+body{
+    background: rgb(24, 84, 105);
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.big-number{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
